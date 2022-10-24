@@ -1,0 +1,10 @@
+
+*.aps
+
+# DLL
+CallbackWithDLLExample/DLL/x64/Debug
+
+# application
+CallbackWithDLLExample/.vs
+CallbackWithDLLExample/x64/Debug
+CallbackWithDLLExample/application/x64/Debug
